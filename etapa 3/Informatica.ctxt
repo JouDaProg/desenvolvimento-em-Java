@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Informatica
+comment1.params=nomeLojaInformatica\ quantidadeFuncionariosLojaInformatica\ salarioBaseFuncionarioLojaInformatica\ enderecoLojaInformatica\ dataFundacaoLojaInformatica\ tamanhoEstoqueLojaInformatica
+comment1.target=Informatica(java.lang.String,\ int,\ double,\ Endereco,\ Data,\ int)
+comment2.params=
+comment2.target=double\ getSeguroEletronicos()
+comment3.params=seguroEletronicos
+comment3.target=void\ setSeguroEletronicos(double)
+comment4.params=
+comment4.target=java.lang.String\ getTipoLoja()
+comment5.params=tipoLoja
+comment5.target=void\ setTipoLoja(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
