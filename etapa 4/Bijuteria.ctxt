@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Bijuteria
+comment1.params=nomeLojaBijuteria\ quantidadeFuncionariosLojaBijuteria\ salarioBaseFuncionarioLojaBijuteria\ enderecoLojaBijuteria\ dataFundacaoLojaBijuteria\ tamanhoEstoqueLojaBijuteria\ metaVendas
+comment1.target=Bijuteria(java.lang.String,\ int,\ double,\ Endereco,\ Data,\ int,\ double)
+comment2.params=
+comment2.target=double\ getMetaVendas()
+comment3.params=metaVendas
+comment3.target=void\ setMetaVendas(double)
+comment4.params=
+comment4.target=java.lang.String\ getTipoLoja()
+comment5.params=tipoLoja
+comment5.target=void\ setTipoLoja(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
